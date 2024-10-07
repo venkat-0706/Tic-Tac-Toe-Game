@@ -18,6 +18,9 @@ The Tic Tac Toe game is a classic 3x3 grid game where two players take turns mar
 2. **Win Condition Detection**: Implementing the logic to check all possible win conditions (rows, columns, diagonals) was complex, requiring accurate end-of-game identification.
 3. **Game Flow Management**: Managing turn alternation and game state involved handling multiple states and conditions.
 
+### How it works
+![TIC_TAC](https://github.com/user-attachments/assets/b18a6e0b-18a3-494c-bd8b-7694c72a596b)
+
 ### Outcomes:
 - **Functional Game**: Successfully implemented a working Tic Tac Toe game where two players can take turns and play until there’s a win or a draw.
 - **User Experience**: Provided a simple, interactive text-based game that is easy to play and understand.
